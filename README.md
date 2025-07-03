@@ -130,4 +130,26 @@ To improve predictive performance:
 ---
 
 ## 📂 Project Structure
+📁 customer-loan-prediction/
+├── data/
+│ └── customer_data.csv
+├── notebooks/
+│ └── loan_modeling.ipynb
+├── models/
+│ └── decision_tree_model.pkl
+├── visuals/
+│ └── feature_importance.png
+├── README.md
+└── requirements.txt
+
+
+---
+
+## 📬 Contact
+
+**Author**: Suhaib Khalid  
+**License**: © Suhaib Khalid. All Rights Reserved. Unauthorized use or distribution prohibited.
+
+---
+
 
